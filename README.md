@@ -1,6 +1,6 @@
 # YOLO from Scratch
 
-This repository contains YOLO functionality implemented from scratch or adapted from the original source, with comprehensive documentation. Its primary goal is to provide an accessible resource for learning YOLO concepts in depth.
+This repository contains YOLO functionality implemented from scratch or adapted from the original source, with comprehensive documentation. Its primary goal is to provide an accessible resource for understanding YOLO concepts in depth.
 
 For the moment, the project comprises three main components:
 
